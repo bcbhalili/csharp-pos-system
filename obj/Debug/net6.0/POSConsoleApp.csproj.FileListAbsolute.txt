@@ -1,0 +1,14 @@
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\bin\Debug\net6.0\POSConsoleApp.exe
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\bin\Debug\net6.0\POSConsoleApp.deps.json
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\bin\Debug\net6.0\POSConsoleApp.runtimeconfig.json
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\bin\Debug\net6.0\POSConsoleApp.dll
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\bin\Debug\net6.0\POSConsoleApp.pdb
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.AssemblyInfo.cs
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.dll
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\refint\POSConsoleApp.dll
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.pdb
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\POSConsoleApp.genruntimeconfig.cache
+C:\Users\Bien\Documents\Visual Studio 2022\Projects\POSConsoleApp\obj\Debug\net6.0\ref\POSConsoleApp.dll

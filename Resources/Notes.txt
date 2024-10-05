@@ -1,0 +1,104 @@
+﻿Importance of functions:
+- Promoting code reusability
+- One of the main components in Object-Oriented Programming
+- Efficient coding
+- Helps future-proofing your code
+Custom-made Functions
+Two types of functions in Programming:
+        1. Void-type:   Does not return anything post execution of function.
+        2. Return-type: Does return a specific value of a corresponding data type post execution of function.
+Format:
+<access specifier> static <data type> <name of function>(<parameters/arguments> - optional) 
+{
+      Your code
+}
+
+Default Arguments
+- Set a default value when the function call did not specify a value/s.
+Format:
+<access specifier> static <data type> <name of function>(<parameters/arguments> = <default value>) 
+{
+      Your code
+}
+
+CRUD Operations:
+C - Create/Add an information that can be stored in a container (databases, variables, lists).
+R - Read/View an infomation from a container.
+U - Update/Edit an information stored in a container.
+D - Delete/Remove an information stored in a container.
+General Definition:
+    CRUD Operations are the basis in determining a good software application.
+
+Object-Oriented Programming 
+- We know we are doing OOP if we are creating CLASSES.
+- A class is a collection of members and methods which are called properties.
+- An object contains available properties.
+- Members are pieces of information stored in a container (variables and lists/arrays)
+    Example: studentName, studentGrade, coursesEnrolled[]
+- Methods are part of the class that does "something".
+    Example: forward(), reverse(), turnLeft(), turnRight(), horn()
+
+// TESTING THE OBJECTS
+//                                NEW IMPLEMENTATION               OLD IMPLEMENTATION
+Console.WriteLine("Flavor: " + barako.Flavor);                     // barako.GetFlavor()
+Console.WriteLine("Price: " + barako.Price);                       // barako.GetPrice()
+Console.WriteLine("Description: " + barako.Description);           // barako.GetDescription()
+Console.WriteLine("Flavor: " + hazelnut.Flavor);                   // hazelnut.GetFlavor()
+Console.WriteLine("Price: " + hazelnut.Price);                     // hazelnut.GetPrice()
+Console.WriteLine("Description: " + hazelnut.Description);         // hazelnut.GetDescription()
+Console.WriteLine("Flavor: " + arabika.Flavor);                    // arabika.GetFlavor()
+Console.WriteLine("Price: " + arabika.Price);                      // arabika.GetPrice()
+Console.WriteLine("Description: " + arabika.Description);          // arabika.GetDescripion()
+// NEW IMPLEMENTATION          OLD IMPLEMENTATION
+barako.Price = 200;            // barako.SetPrice(200);
+hazelnut.Price = 210;          // hazelnut.SetPrice(210);
+arabika.Price = 220;           // arabike.SetPrice(220);
+
+4 Pillars of Object-Oriented Programming
+Encapsulation/Data-Grouping: Group members and methods in a class to give in context in what your class is all about.
+Abstraction: Hiding the breakdowns and combining them into one process
+Inheritance: Data-Sharing
+Polymorphism
+
+Commonly-used Member Access Specifiers:
+- private: the property only exist within the class
+- public: the property exists in and out of the class 
+
+Constructors:
+- Special of type function to create an object.
+- Format:
+public <name of class>(arguments/parameters - optional depending on how you want your constructor to behave)
+{
+    // Your code here
+}
+
+Class Object Declaration (Instantiation):
+Format:
+<name of class> <name of proposed object> = new <name of class>();             // Default creation of object
+<name of class> <name of proposed object> = new <name of class>(<arguments>);  // Default creation of object
+
+// METHODS - OLD IMPLEMENTATION
+//public string GetFlavor()
+//{
+//    return flavor;
+//}
+//public double GetPrice()
+//{
+//    return price;
+//}
+//public string GetDescription()
+//{
+//    return description;
+//}
+//public void SetFlavor(string flavor = "Default Flavor")
+//{
+//    this.flavor = flavor;
+//}
+//public void SetPrice(double price = 0.00)
+//{
+//    this.price = price;
+//}
+//public void SetDescription(string description = "Default Description")
+//{
+//    this.description = description;
+//}
